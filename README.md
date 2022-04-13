@@ -1,2 +1,2 @@
 # resume
-This is a website implementation for my resume
+This is a website an implementation for my resume
